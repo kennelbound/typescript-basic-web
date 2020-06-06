@@ -1,0 +1,1 @@
+Very simple starter website to make bootstrapping projects easier.
